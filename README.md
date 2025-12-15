@@ -3,7 +3,7 @@
 - 🌱 _Environmental scientist_ exploring data analysis tools within _environmental datasets_
 - 💡 I’m currently working on data projects for my GitHub repository
 - 📫 How to reach me: daianadaga@gmail.com
-- ⚡ More about me: in love with _artistic gymnastics_ lover 🤸‍♀️, curious about the _universe_ 🔭 _cat mom_ 😻 & passionate about using data to drive more _sustainable decisions_.
+- ⚡ More about me: in love with _artistic gymnastics_ lover 🤸‍♀️, curious about the _universe_ 🔭, _cat mom_ 😻 & passionate about using data to drive more _sustainable decisions_.
 
 ## 🛠️Tools & Languages
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
