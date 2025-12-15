@@ -1,7 +1,7 @@
 # Hi there, I'm Daiana 👋
 
-- 🌱 _Environmental researcher_ who transitioned into the _world of data_
-- 💡 I’m currently working on projects for my GitHub repository
+- 🌱 _Environmental scientist_ exploring data analysis tools within _environmental datasets_
+- 💡 I’m currently working on data projects for my GitHub repository
 - 📫 How to reach me: daianadaga@gmail.com
 - ⚡ More about me: in love with _artistic gymnastics_ lover 🤸‍♀️, curious about the _universe_ 🔭 _cat mom_ 😻 & passionate about using data to drive more _sustainable decisions_.
 
